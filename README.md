@@ -1,6 +1,8 @@
 ## Hi there 👋 
-🎓 Senior Business Admin (Econ) @ Selu | IT Asset & Wealth Mgmt Minor
+🎓 Senior Business Admin (Econ) @ Selu | IT Minor
+
 📊 Bridging economics, tech, and business strategy | Data-Driven Problem Solver
+
 🚀 Passionate about digital transformation, content marketing, and financial analysis
 
 <!--
