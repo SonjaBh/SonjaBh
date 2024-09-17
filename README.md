@@ -5,9 +5,11 @@
 
 🚀 Passionate about digital transformation, content marketing, and financial analysis
 
-<!--
+<!--![image](https://github.com/user-attachments/assets/3b2e975a-f1bd-4360-9401-d5c78be344da)
+
 **SonjaBh/SonjaBh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
 - 📫 How to reach me: sonja.bhatta@selu.edu
+<!--![image](https://github.com/user-attachments/assets/3b2e975a-f1bd-4360-9401-d5c78be344da) www.linkedin.com/in/sonja-bhatta
 -->
